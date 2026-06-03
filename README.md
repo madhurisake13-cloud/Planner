@@ -33,17 +33,6 @@ This project allows users to manage daily tasks with a modern UI, progress track
 - Font Awesome Icons
 
 ---
-
-## Project Structure
-
-```bash
-project-folder/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 Conclusion
 
 This project demonstrates the implementation of a fully functional front-end To-Do List application using Vanilla JavaScript with a responsive and visually engaging interface.
